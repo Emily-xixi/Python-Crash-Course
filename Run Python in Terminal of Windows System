@@ -1,0 +1,13 @@
+#If you want to run Python programs in the terminal...
+#For Windows Systems:
+#  Click "Run" in the "Start" menu to open the run window， then enter 'cmd' to open the command window
+#  win+R open the run window, enter cmd to open the command window
+#  if your file's name is: hello_world.py
+#  Type: ❶ C:> cd Desktop\python_work
+         ❷ C:\Desktop\python_work> dir
+           python hello_world.py
+         ❸ C:\Desktop\python_work> python hello_world.py
+#1. Type in :'cd Desktop\python_work' to switch to the 'python_work' file;
+#2. Type in :'dir' to get lists of files in 'python_work';
+#3. Type in :'python hello_world.py' to run the program;
+#4. Succeed when you see “Hello Python world!"!
